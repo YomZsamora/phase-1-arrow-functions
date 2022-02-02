@@ -1,3 +1,4 @@
+
 // a functional expression called divide
 let divide = () => 2000 / 100
 
